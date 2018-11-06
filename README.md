@@ -1936,6 +1936,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [GoBridge, San Francisco, CA](https://www.meetup.com/gobridge/)
 * [GoJakarta](https://www.meetup.com/GoJakarta/)
 * [Golang Amsterdam](https://www.meetup.com/golang-amsterdam/)
+* [Golang Graz, Austria](https://www.meetup.com/de-DE/Graz-Open-Source-Meetup/)
 * [Golang Argentina](https://www.meetup.com/Golang-Argentina/)
 * [Golang Bangalore](https://www.meetup.com/Golang-Bangalore/)
 * [Golang Belo Horizonte - Brazil](https://www.meetup.com/go-belo-horizonte/)
